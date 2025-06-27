@@ -1,8 +1,3 @@
----
-title: README.md
-
----
-
 # Maōri-Spell-Checker
 
 This program implements a probabilistic spell-checker for Cook Islands Maōri, a low-resource Polynesian language. This program is part of the broader effort of developing Natural Language Processing (NLP) tools for low-resource languages.
