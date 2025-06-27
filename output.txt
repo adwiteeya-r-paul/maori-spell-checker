@@ -1,0 +1,15 @@
+Prompt: Please write a sentence in Cook Islands Maori, and press ENTER to check the spelling.
+Input: Kia orana kotoo mai i Rarotoga!
+Output: 
+==Possible misspelling==
+kotoo : {'kotou'}
+==Possible misspelling==
+rarotoga : {'rarotonga'}
+
+Prompt: Please write a sentence in Cook Islands Maori, and press ENTER to check the spelling.
+Input : Kua aere au ki Mauke.
+Output:
+==Possible misspelling==
+aere : {'mere', 'tere', 'rere', 'qaere'}
+==Possible misspelling==
+mauke : {'maquke'}
